@@ -8,7 +8,7 @@ I am a Computer Science student at Xavier University of Louisiana'29 who enjoys 
 - Interested in Android mobile development, Python backends, and AI agents
 - Building with Kotlin and Jetpack Compose for Android
 
-##Languages
+## Languages
 <p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
