@@ -1,7 +1,7 @@
 
-Hi, I'm Oluwaseyi Popoola
+Hi, I'm Oluwaseyi Popoola [LinkedIn](https://www.linkedin.com/in/oluwaseyi-popoola-a900252a7/) | [Email](mailto:oluwaseyipopoola49@gmail.com) | [LeetCode](https://leetcode.com/u/OluwaseyiPopoola)
 
-Computer Science Student | Android App Developer | Python Backend | [LinkedIn]([mailto:oluwaseyipopoola49@gmail.com](https://www.linkedin.com/in/oluwaseyi-popoola-a900252a7/))  | [LeetCode](https://leetcode.com/u/OluwaseyiPopoola)
+Computer Science Student | Android App Developer | Python Backend | Web Developement |
 
 I am a Computer Science student at Xavier University of Louisiana'29 who enjoys building thoughtful software and solving problems that make me think.
 
@@ -17,7 +17,3 @@ I am a Computer Science student at Xavier University of Louisiana'29 who enjoys 
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
-Let's Connect
-Reach me through:
-- [Email](mailto:oluwaseyipopoola49@gmail.com)
