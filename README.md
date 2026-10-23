@@ -1,7 +1,7 @@
 
 Hi, I'm Oluwaseyi Popoola
 
-Computer Science Student | Android Developer | Python Backend Builder
+Computer Science Student | Android App Developer | Python Backend | [LinkedIn]([mailto:oluwaseyipopoola49@gmail.com](https://www.linkedin.com/in/oluwaseyi-popoola-a900252a7/))  | [LeetCode](https://leetcode.com/u/OluwaseyiPopoola)
 
 I am a Computer Science student at Xavier University of Louisiana'29 who enjoys building thoughtful software and solving problems that make me think.
 
